@@ -1,3 +1,4 @@
+#Using read and write operations in Python file handling
 with open("abc.txt","r") as file:
     data=file.read()
     print(data)
